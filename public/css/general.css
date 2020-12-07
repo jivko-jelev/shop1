@@ -1,0 +1,20 @@
+.error {
+    color: red;
+}
+
+.error-quantity {
+    margin-top: 50px !important;
+    color: red !important;
+}
+
+.ui-slider-horizontal {
+    height: 5px;
+}
+
+.product_rating {
+    color: #f5e211;
+}
+
+.parallax-mirror{
+    height: 350px !important;
+}
